@@ -10,7 +10,7 @@ namespace prueba_1
     {
         static void Main(string[] args)
         {
-            int valor1 = 1;
+            int valor2 = 0;
         }
     }
 }
