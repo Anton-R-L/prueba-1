@@ -12,6 +12,7 @@ namespace prueba_1
         {
             int valor2 = 0;
             int valor3 = 1;
+            int valor4 = 2;
         }
     }
 }
