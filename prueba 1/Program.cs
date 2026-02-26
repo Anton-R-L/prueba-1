@@ -11,6 +11,7 @@ namespace prueba_1
         static void Main(string[] args)
         {
             int valor2 = 0;
+            int valor3 = 1;
         }
     }
 }
